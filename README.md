@@ -43,7 +43,7 @@ repositories {
 
 dependencies{
   // Get all services
-  implementation 'com.github.AfricasTalkingLtd.africastalking-java:core:3.4.9'
+ implementation 'com.github.MusauEric:sasapaysdk:1.0'
 ```
 
 or Gradle (Kotlin DSL):
